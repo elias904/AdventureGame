@@ -1,0 +1,405 @@
+{
+ "tempo": 1200,
+ "salas":[
+  {
+    "entrada": true,
+    "saida": false,
+    "indice": 1,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 6
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 2
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+  {
+    "entrada": false,
+    "saida": false,
+    "indice": 2,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 1
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 3
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+  {
+    "entrada": false,
+    "saida": false,
+    "indice": 3,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 2
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 8
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+  {
+    "entrada": false,
+    "saida": true,
+    "indice": 4,
+    "A": {
+      "porta": true,
+      "portaVizinha": "saida",
+      "salaVizinha": null
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 5
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 5,
+    "A": {
+      "porta": true,
+      "portaVizinha": "C",
+      "salaVizinha": 10
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 4
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+  {
+    "entrada": false,
+    "saida": false,
+    "indice": 6,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 1
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 7
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 7,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 12
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 6
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 8,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 13
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 3
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 9,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 10
+    },
+    "B": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 10,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 9
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 15
+    },
+    "C": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 5
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 11,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 12
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 16
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 12,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 11
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 7
+    },
+    "C": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 13
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 13,
+    "A": {
+      "porta": true,
+      "portaVizinha": "C",
+      "salaVizinha": 12
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 8
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 14,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 15
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 19
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 15,
+    "A": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 14
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 10
+    },
+    "C": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 20
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 16,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 11
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 17
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 17,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 16
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 18
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 18,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 19
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 17
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 19,
+    "A": {
+      "porta": true,
+      "portaVizinha": "B",
+      "salaVizinha": 14
+    },
+    "B": {
+      "porta": true,
+      "portaVizinha": "A",
+      "salaVizinha": 18
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  },
+   {
+    "entrada": false,
+    "saida": false,
+    "indice": 20,
+    "A": {
+      "porta": true,
+      "portaVizinha": "C",
+      "salaVizinha": 15
+    },
+    "B": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": 5
+    },
+    "C": {
+      "porta": false,
+      "portaVizinha": null,
+      "salaVizinha": null
+    }
+  }
+  ]
+}
